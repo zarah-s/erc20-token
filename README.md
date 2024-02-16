@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# ERC20 Token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project implements the basic ERC20 standard
+# 
+medium article link [https://medium.com/@devvick230385/erc20-token-pyde-pyper-25b4c5fad4f7]
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
